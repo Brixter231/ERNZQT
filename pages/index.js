@@ -11,8 +11,7 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
         <p>I’m Brixter Balboa Bondoc, I live in Sulipan Apalit, Pampanga. My hobbies are playing sports like basketball and badminton. My favorite food is filipino food like sigang, menudo, asado. Other things that I can tell you about me is I like watching movies/series and listening to music.
         </p>
-        
-        </p>
+      
         <p>I take up IT because it’s a lot of opportunities here and it’s in demand and my brother is also an IT.
         </p>
         <p>After graduation I see myself as a Software Developer or UX/UI Designer.</p>
@@ -24,8 +23,7 @@ Process Modeling: Documenting and analyzing business processes to improve effici
 
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-
+          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.</p>
       </section>
     </Layout>
   );
